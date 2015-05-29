@@ -1,0 +1,6 @@
+1423880608682	Rename local variable 'sqlDb'
+1423880614959	Rename local variable 'sqlDb'
+1423924857385	Rename field '_ig'
+1423924940973	Rename method 'set_ig'
+1423924949154	Rename method 'get_ig'
+1423925793586	Rename type 'DatabaseOpenHelper'

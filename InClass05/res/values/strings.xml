@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="etSearchKeyword">Search Keyword</string>
+    <string name="bGo">Go</string>
+    <string name="method">method</string>
+    <string name="api_key">api_key</string>
+    <string name="text">text</string>
+    <string name="extras">extras</string>
+    <string name="per_page">per_page</string>
+    <string name="format">format</string>
+
+</resources>

@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="14dp"
+        android:ems="10"
+        android:hint="@string/hint_cityState" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText1"
+        android:layout_marginTop="14dp"
+        android:text="@string/tvMetricSys" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="36dp"
+        android:text="@string/bSubmit" />
+
+    <TextView
+        android:id="@+id/tvTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/switch1"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="35dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/idHumidity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvTemperature"
+        android:layout_below="@+id/tvTemperature"
+        android:layout_marginTop="25dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/idWind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idHumidity"
+        android:layout_below="@+id/idHumidity"
+        android:layout_marginTop="19dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/idClouds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idWind"
+        android:layout_below="@+id/idWind"
+        android:layout_marginTop="19dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/idPrecipitation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idClouds"
+        android:layout_below="@+id/idClouds"
+        android:layout_marginTop="22dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/idPressure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/idPrecipitation"
+        android:layout_below="@+id/idPrecipitation"
+        android:layout_marginTop="20dp"
+        android:text="TextView" />
+
+</RelativeLayout>

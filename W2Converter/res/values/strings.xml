@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Week2Try</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_add">Add (+)</string>
+    <string name="button_subtract">Subtract (-)</string>
+    <string name="button_multiply">Multiply (*)</string>
+    <string name="button_divide">Divide (/)</string>
+    <string name="button_clearall">Clear All</string>
+    <string name="initial_Number1">Number1</string>
+    <string name="initial_Number2">Number2</string>
+    <string name="initial_Result">Result :  </string>
+    <string name="empty"/>
+
+</resources>

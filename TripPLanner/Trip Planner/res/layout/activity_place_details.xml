@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <EditText
+        android:id="@+id/cityname"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/search"
+        android:background="@drawable/edittext_default_bg"
+        android:ems="10"
+        android:hint="@string/current"
+        android:padding="10dp"
+        android:textColorHint="#bbbbbb" >
+
+    <requestFocus />
+</EditText>
+    
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp" >
+
+    </ListView>
+
+<Button
+    android:id="@+id/enter"
+    android:layout_width="50dp"
+    android:layout_height="40dp"
+    android:layout_alignBaseline="@+id/cityname"
+    android:layout_alignBottom="@+id/cityname"
+    android:layout_marginLeft="17dp"
+    android:layout_toRightOf="@+id/cityname"
+    android:background="@drawable/button_default_bg"
+    android:text="@string/enter"
+    android:textColor="#194219" />
+
+
+    
+</RelativeLayout>

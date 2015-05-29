@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello World</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="click_here">Click here</string>
+    
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+        <string name="button_cancel">Cancel</string>
+        <string name="button_text_aaproach1">Approach 1</string>
+        <string name="button_text_approach2">Approach 2</string>
+        <string name="button_text_approach3">Approach 3</string>
+        <string name="button_text_approach2a">Approach 2a</string>
+
+</resources>

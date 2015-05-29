@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;JSONParser.java&apos; to &apos;InClass06/src/com.example.inclass06&apos;&#x0D;&#x0A;- Original project: &apos;W6JSON&apos;&#x0D;&#x0A;- Destination element: &apos;InClass06/src/com.example.inclass06&apos;&#x0D;&#x0A;- Original element: &apos;com.example.w6json.JSONParser.java&apos;" description="Copy compilation unit" destination="=InClass06/src&lt;com.example.inclass06" element1="/src&lt;com.example.w6json{JSONParser.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1423786340462" units="1" version="1.0"/>
+</session>

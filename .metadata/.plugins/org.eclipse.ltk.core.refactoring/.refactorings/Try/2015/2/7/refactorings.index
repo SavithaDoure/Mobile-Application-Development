@@ -1,0 +1,8 @@
+1423785327067	Extracts string 'null' into R.string.bSubmit
+1423785356765	Extracts string 'null' into R.string.hintKeyword
+1423786465379	Rename type 'ApplicationJSONParser'
+1423788148340	Extracts string 'null' into R.string.owner
+1423788309455	Rename local variable 'intent'
+1423788733452	Move file
+1423788769416	Move file
+1423790020613	Rename type 'Gallery'

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Week5Try</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_cityState">Enter City, State, Country</string>
+    <string name="tvMetricSys">Use Metric System</string>
+    <string name="bSubmit">Submit</string>
+
+</resources>

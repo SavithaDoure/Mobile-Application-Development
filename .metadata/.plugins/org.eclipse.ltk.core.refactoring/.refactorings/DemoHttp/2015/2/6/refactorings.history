@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RequestParams.java&apos; to &apos;Week5Try/src/com.example.week5try&apos;&#x0D;&#x0A;- Original project: &apos;HttpDemo&apos;&#x0D;&#x0A;- Destination element: &apos;Week5Try/src/com.example.week5try&apos;&#x0D;&#x0A;- Original element: &apos;com.example.httpdemo.RequestParams.java&apos;" description="Copy compilation unit" destination="=Week5Try/src&lt;com.example.week5try" element1="/src&lt;com.example.httpdemo{RequestParams.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1423024543500" units="1" version="1.0"/>
+</session>

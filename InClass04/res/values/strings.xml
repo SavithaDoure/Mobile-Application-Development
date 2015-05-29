@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass04</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvSelectComplex">Select Complexity: </string>
+    <string name="thread">Generate Number Thread</string>
+    <string name="async">Generate Number Async Task</string>
+    <string name="times"> Times</string>
+
+</resources>

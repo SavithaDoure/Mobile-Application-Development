@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityForResultEx</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mainActivity">MAin Activity</string>
+    <string name="secondActivity">Second Activity</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>

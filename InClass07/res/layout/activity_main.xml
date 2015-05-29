@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <EditText
+        android:id="@+id/idKeyword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="79dp"
+        android:ems="10"
+        android:hint="@string/hintKeyword" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/idbSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idKeyword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="57dp"
+        android:text="@string/bSubmit" />
+
+</RelativeLayout>

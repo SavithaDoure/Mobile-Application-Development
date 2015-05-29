@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Week3Try</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="title_activity_edit">Edit Activity</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="text_department">Department</string>
+    <string name="button_submit">Submit</string>
+    <string name="rb_sis">SIS</string>
+    <string name="rb_cs">CS</string>
+    <string name="rb_health">Health Informatics</string>
+    <string name="text_empInfo">Employee Information</string>
+    <string name="text_name">"Name :   "</string>
+    <string name="text_age">"Age :  "</string>
+    <string name="text_email">"Email :  "</string>
+    <string name="text_phone">"Phone :  "</string>
+    <string name="text_dept">"Department :  "</string>
+
+</resources>

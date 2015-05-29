@@ -1,0 +1,11 @@
+1424741305709	Rename type 'NotesDAO'
+1424741324957	Rename type 'NotesTable'
+1424741525632	Rename field 'COLUMN_SUBJECT'
+1424742200063	Rename field 'noteDao'
+1424747675418	Delete elements
+1424747905522	Rename type 'DatabaseHelper'
+1424747918231	Rename type 'DAOManager'
+1424747953006	Rename type 'DAOManager'
+1424747969972	Rename type 'DatabaseHelper'
+1424747999173	Rename type 'KeywoordDAOManager'
+1424999931772	Copy compilation units

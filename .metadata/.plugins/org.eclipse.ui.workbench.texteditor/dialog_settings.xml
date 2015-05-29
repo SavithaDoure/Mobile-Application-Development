@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="307" key="DIALOG_WIDTH"/>
+		<item value="123" key="DIALOG_Y_ORIGIN"/>
+		<item value="423" key="DIALOG_HEIGHT"/>
+		<item value="183" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Tahoma|10.867925|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="Top" key="selection"/>
+		<list key="findhistory">
+			<item value="top"/>
+			<item value="bott"/>
+			<item value="bor"/>
+			<item value="adapter"/>
+			<item value="conte"/>
+			<item value="adapt"/>
+			<item value="adap"/>
+			<item value="todo"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Todo Fragment Activity"/>
+			<item value="Inclass10"/>
+			<item value="Integer.parseInt"/>
+			<item value="Double.parseDouble"/>
+			<item value="photo"/>
+			<item value="Photo"/>
+			<item value="Try"/>
+			<item value="keyword"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 16 resources" deleteContents="false" description="Delete 16 resources" element1="/ActivityForResultEx" element10="/PassingData" element11="/RadioButtonsDemo" element12="/StoringUITags" element13="/ThreadDemo" element14="/Week2Try" element15="/Week2TryRadio" element16="/Week3Try" element2="/AlertDialogExample" element3="/DateTimePicker" element4="/DynamicLayout" element5="/ExplicitIntentsExample" element6="/HelloWorld" element7="/IDEHelp" element8="/ImplicitIntentExample" element9="/OtherIntents" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="16" stamp="1422410074563"/>
+</session>

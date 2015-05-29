@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <Button
+        android:id="@+id/buttonCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="4dp"
+        android:layout_marginBottom="27dp"
+        android:background="@drawable/button_default_bg"
+        android:padding="10dp"
+        android:textColor="#E60000"
+        android:text="cancel" />
+
+    <Button
+        android:id="@+id/buttonSignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonCancel"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="23dp"
+        android:background="@drawable/button_default_bg"
+        android:text="@string/signup"
+        android:textColor="#194219" />
+
+    <EditText
+        android:id="@+id/editTextUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/edittext_default_bg"
+        android:drawableLeft="@drawable/user"
+        android:ems="10"
+        android:hint="User Name"
+        android:padding="10dp"
+        android:textColorHint="#bbbbbb" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/editTextUserName"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/edittext_top_bg"
+        android:drawableLeft="@drawable/email"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:padding="10dp"
+        android:textColorHint="#bbbbbb" />
+
+    <EditText
+        android:id="@+id/editTextPasswordConfirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/pass"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edittext_bottom_bg"
+        android:drawableLeft="@drawable/password"
+        android:ems="10"
+        android:hint="Confirm Password"
+        android:padding="10dp"
+        android:password="true"
+        android:textColorHint="#bbbbbb" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/email"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/edittext_bottom_bg"
+        android:drawableLeft="@drawable/password"
+        android:ems="10"
+        android:hint="Password"
+        android:padding="10dp"
+        android:password="true"
+        android:textColorHint="#bbbbbb" />
+
+</RelativeLayout>

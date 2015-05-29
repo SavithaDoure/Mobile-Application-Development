@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;PhotoAdapter.java&apos; to &apos;Midterm/src/com.example.midterm&apos;&#x0D;&#x0A;- Original project: &apos;InClass07&apos;&#x0D;&#x0A;- Destination element: &apos;Midterm/src/com.example.midterm&apos;&#x0D;&#x0A;- Original element: &apos;com.example.inclass07.PhotoAdapter.java&apos;" description="Copy compilation unit" destination="=Midterm/src&lt;com.example.midterm" element1="/src&lt;com.example.inclass07{PhotoAdapter.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1424998335927" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.inclass08.ToDoActivity" >
+
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="99"
+        android:showAsAction="never"
+        android:title="@string/show_place"/>
+    
+ 
+
+</menu>

@@ -1,0 +1,15 @@
+1424995010125	Rename type 'PersonSAXParser'
+1424995495417	Rename local variable 'personList'
+1424996292224	Rename method 'parsePerson'
+1424997277046	Change Layout
+1424998345817	Rename type 'PhotoAdapter'
+1424998966398	Extracts string 'null' into R.string.appList
+1424998977889	Extracts string 'null' into R.string.history
+1424999942197	Rename type 'KeywordDAO'
+1424999949197	Rename type 'KeywordDAOManager'
+1424999956641	Rename type 'KeywordDBHelper'
+1424999964685	Rename type 'KeywordTable'
+1425000495059	Rename local variable 'keyword'
+1425000600198	Rename field 'keywordDao'
+1425002034106	Rename field 'textView1'
+1425002727441	Rename type 'NameSort'

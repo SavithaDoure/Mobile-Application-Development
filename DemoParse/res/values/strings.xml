@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoParse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_events">Events Activity</string>
+    <string name="title_activity_add_event">Add Event Activity</string>
+    <string name="action_add_event">Add Event</string>
+    <string name="add_event">Add Event</string>
+
+</resources>
